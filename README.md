@@ -1,0 +1,2 @@
+# sudev
+su dev details
